@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\deftr\OneDrive\Desktop\СПО\spo\prak2\prak2\Main.cpp(196,13): warning C4101: 'wEndString': unreferenced local variable
+C:\Users\deftr\OneDrive\Desktop\СПО\spo\prak2\prak2\Main.cpp(257,13): warning C4101: 'wEndString': unreferenced local variable
+  prak2.vcxproj -> C:\Users\deftr\OneDrive\Desktop\СПО\spo\prak2\Debug\prak2.exe
